@@ -1,8 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dani Dumitrache</h1>
+<h3 align="center">Presentation of my professional experience and technical skills</h3>
+
+- 🌱 I’m currently learning **symfony,yii,codeigniter,react.js,vue.js,angular.js**
 
 - 👨‍💻 All of my projects are available at [https://danid.ro](https://danid.ro)
 
 - 📫 How to reach me **danidumitrache20@gmail.com**
+
+- 📄 Know about my experiences [My name is Dani Dumitrache and I'm 15 years old. I make websites from an early age, I started at the age of 12-13, but I started to do it seriously in the last two years. I know quite well the front-end and back-end part, I can make complex sites from 0 with a modern design. I'm in a continuous learning and development, I appreciate any opinion from outsiders. In my free time, I enjoy listening to music, watching movies, or playing computer games.](My name is Dani Dumitrache and I'm 15 years old. I make websites from an early age, I started at the age of 12-13, but I started to do it seriously in the last two years. I know quite well the front-end and back-end part, I can make complex sites from 0 with a modern design. I'm in a continuous learning and development, I appreciate any opinion from outsiders. In my free time, I enjoy listening to music, watching movies, or playing computer games.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
