@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="500" height="500" alt="typescript"/>
+![How-long-does-it-take-to-become-a-PHP-Developer](https://user-images.githubusercontent.com/76882185/222981455-c7e5a182-93df-4e52-b101-b547ab8579ea.jpg)
 
 <h1 align="center">Hi 👋, I'm Dani Dumitrache</h1>
 <h3 align="center">Presentation of my professional experience and technical skills</h3>
