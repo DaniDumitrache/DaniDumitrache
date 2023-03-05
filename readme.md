@@ -1,4 +1,5 @@
-<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" alt="typescript"/>
+<img src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="500" height="500" alt="typescript"/>
+
 <h1 align="center">Hi 👋, I'm Dani Dumitrache</h1>
 <h3 align="center">Presentation of my professional experience and technical skills</h3>
 
