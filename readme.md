@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dani Dumitrache</h1>
 <h3 align="center">Presentation of my professional experience and technical skills</h3>
 
-- 🌱 I’m currently learning **symfony,yii,codeigniter,react.js,vue.js,angular.js**
+- 🌱 I’m currently learning **symfony, yii, codeigniter, react.js, vue.js, angular.js**
 
 - 👨‍💻 All of my projects are available at [https://danid.ro](https://danid.ro)
 
