@@ -1,3 +1,4 @@
+<img src="https://static.vecteezy.com/system/resources/thumbnails/011/868/785/original/animated-isolated-coding-specialist-window-with-typing-web-developer-looped-flat-2d-character-4k-footage-with-alpha-channel-programming-colorful-animation-for-mobile-website-social-media-video.jpg" alt="typescript"/>
 <h1 align="center">Hi 👋, I'm Dani Dumitrache</h1>
 <h3 align="center">Presentation of my professional experience and technical skills</h3>
 
