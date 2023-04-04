@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **symfony, yii, codeigniter, react.js, vue.js, angular.js**
 
-- 👨‍💻 All of my projects are available at [https://danid.ro](https://danid.ro)
+- 👨‍💻 All of my projects are available at [https://danid.rf.gd](https://danid.rf.gd)
 
 - 📫 How to reach me **danidumitrache20@gmail.com**
 
