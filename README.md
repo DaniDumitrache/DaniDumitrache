@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Dani Dumitrache 👋</h1>
-<h3 align="center">Presentation of my professional experience and technical skills</h3>
+<h1 align="center">Presentation of my professional experience and technical skills</h1>
 
 - 👨‍💻 All of my projects are available at [https://danid.rf.gd](https://danid.rf.gd)
 
