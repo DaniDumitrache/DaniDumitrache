@@ -1,9 +1,5 @@
-![How-long-does-it-take-to-become-a-PHP-Developer](https://user-images.githubusercontent.com/76882185/222981455-c7e5a182-93df-4e52-b101-b547ab8579ea.jpg)
-
 <h1 align="center">Hi 👋, I'm Dani Dumitrache</h1>
 <h3 align="center">Presentation of my professional experience and technical skills</h3>
-
-- 🌱 I’m currently learning: **symfony, yii, codeigniter, react.js, vue.js, angular.js**
 
 - 👨‍💻 All of my projects are available at [https://danid.rf.gd](https://danid.rf.gd)
 
